@@ -86,7 +86,7 @@ Veg Foods
 isLoggedIn && 
 <>
 
-<Link to="/add">
+<Link to="/add-food">
 Add Food
 </Link>
 
